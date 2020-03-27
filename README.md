@@ -23,3 +23,7 @@ Output data: the dividing functions and the final rule for classification
 * :earth_africa: __Classification of objects by hierarchical grouping__  
 
 * :earth_africa: __Recognizing objects using syntax methods__  
+
+* :earth_africa: __Gramma methods__
+
+* :earth_africa: __Neural network__
